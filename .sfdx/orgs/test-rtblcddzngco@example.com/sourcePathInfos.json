@@ -1,0 +1,465 @@
+[
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1544488269450,
+            "changeTime": 1544488269450,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1544488269451,
+            "changeTime": 1544488269451,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1544490890384,
+            "changeTime": 1544490890384,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1544501364993,
+            "changeTime": 1544501364993,
+            "contentHash": "d3aea777de687f4e2dd07f3040c2229520606074",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1544488283114,
+            "changeTime": 1544488283114,
+            "contentHash": "67bcaeb63e3242ee307d017757fce647b2fdb77a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/classes",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1544492963240,
+            "changeTime": 1544492963240,
+            "contentHash": "feb821dbc19333cf59294c0900c5a99800149018",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/classes/DemoAuraController.cls",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/classes/DemoAuraController.cls",
+            "isDirectory": false,
+            "size": 476,
+            "modifiedTime": 1544503176119,
+            "changeTime": 1544503176119,
+            "contentHash": "46158f0a1f9ab229e66bbfee221818b55e9e161c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/classes/DemoAuraController.cls-meta.xml",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/classes/DemoAuraController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1544491529500,
+            "changeTime": 1544491529501,
+            "contentHash": "88a1703cee32c7f6ee1ae54bb770e19e773761b3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/classes/DemoObjectHandler.cls",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/classes/DemoObjectHandler.cls",
+            "isDirectory": false,
+            "size": 711,
+            "modifiedTime": 1544502086316,
+            "changeTime": 1544502086316,
+            "contentHash": "312e36bff0529fa242e65e05032802c46a276ef2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/classes/DemoObjectHandler.cls-meta.xml",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/classes/DemoObjectHandler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1544492704068,
+            "changeTime": 1544492704068,
+            "contentHash": "9fb3a75b01dc8f1d3ffac4aa115aac52837c82eb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentOne",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentOne",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1544494230136,
+            "changeTime": 1544494230136,
+            "contentHash": "d55f5a8c498959e3ea545311263154e9339d45df",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentOne/DemoComponentOne.auradoc",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentOne/DemoComponentOne.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1544494230136,
+            "changeTime": 1544494230136,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentOne/DemoComponentOne.cmp",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentOne/DemoComponentOne.cmp",
+            "isDirectory": false,
+            "size": 531,
+            "modifiedTime": 1544501533444,
+            "changeTime": 1544501533444,
+            "contentHash": "4ea0b4cbee4ce1b80ba2df14e6f738dd04bcb2b0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentOne/DemoComponentOne.cmp-meta.xml",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentOne/DemoComponentOne.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 248,
+            "modifiedTime": 1544494230134,
+            "changeTime": 1544494230134,
+            "contentHash": "3b7c5c42ac531c443a3891bc93537de5341f4656",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentOne/DemoComponentOne.css",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentOne/DemoComponentOne.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1544494230135,
+            "changeTime": 1544494230135,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentOne/DemoComponentOne.design",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentOne/DemoComponentOne.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1544494230136,
+            "changeTime": 1544494230136,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentOne/DemoComponentOne.svg",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentOne/DemoComponentOne.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1544494230135,
+            "changeTime": 1544494230135,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentOne/DemoComponentOneController.js",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentOne/DemoComponentOneController.js",
+            "isDirectory": false,
+            "size": 1453,
+            "modifiedTime": 1544502633292,
+            "changeTime": 1544502475656,
+            "contentHash": "347c611cc04343cd41aed50c3c5e22f6077dd567",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentOne/DemoComponentOneHelper.js",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentOne/DemoComponentOneHelper.js",
+            "isDirectory": false,
+            "size": 2228,
+            "modifiedTime": 1544501646222,
+            "changeTime": 1544501646222,
+            "contentHash": "efcf7383f615661b204ddffd25a9487a1d8f179c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentOne/DemoComponentOneRenderer.js",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentOne/DemoComponentOneRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1544494230135,
+            "changeTime": 1544494230135,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/classes/DemoRecordWrapper.cls",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/classes/DemoRecordWrapper.cls",
+            "isDirectory": false,
+            "size": 231,
+            "modifiedTime": 1544494039270,
+            "changeTime": 1544494039270,
+            "contentHash": "c47fc2a88e04c132557025e3273bbcc0389a7f62",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/classes/DemoRecordWrapper.cls-meta.xml",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/classes/DemoRecordWrapper.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1544492963240,
+            "changeTime": 1544492963240,
+            "contentHash": "b9a31baaee17615002a9695215d09e1612f29f78",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentTwo",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentTwo",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1544500896276,
+            "changeTime": 1544500896276,
+            "contentHash": "2b21c7c15b665ae8513cdad73dd147e0c09b2890",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoEvent",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoEvent",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1544501364994,
+            "changeTime": 1544501364994,
+            "contentHash": "582f38f3987d9dbbf1914d40fe5f46192cbba3e9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentTwo/DemoComponentTwo.auradoc",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentTwo/DemoComponentTwo.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1544500896276,
+            "changeTime": 1544500896276,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentTwo/DemoComponentTwo.cmp",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentTwo/DemoComponentTwo.cmp",
+            "isDirectory": false,
+            "size": 531,
+            "modifiedTime": 1544502997395,
+            "changeTime": 1544502997395,
+            "contentHash": "0c90f71e6f10f9da0d4386c66cc0f013e382a6e5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentTwo/DemoComponentTwo.cmp-meta.xml",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentTwo/DemoComponentTwo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 248,
+            "modifiedTime": 1544500896272,
+            "changeTime": 1544500896272,
+            "contentHash": "3905c545df9133287c6385713cd29488ca848fdb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentTwo/DemoComponentTwo.css",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentTwo/DemoComponentTwo.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1544500896274,
+            "changeTime": 1544500896274,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentTwo/DemoComponentTwo.design",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentTwo/DemoComponentTwo.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1544500896277,
+            "changeTime": 1544500896277,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentTwo/DemoComponentTwo.svg",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentTwo/DemoComponentTwo.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1544500896275,
+            "changeTime": 1544500896275,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentTwo/DemoComponentTwoController.js",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentTwo/DemoComponentTwoController.js",
+            "isDirectory": false,
+            "size": 704,
+            "modifiedTime": 1544502687715,
+            "changeTime": 1544502687715,
+            "contentHash": "099c5c1e79480e93e175b1f9d7328b95457fbf85",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentTwo/DemoComponentTwoHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentTwo/DemoComponentTwoHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1659,
+            "modifiedTime": 1544503215102,
+            "changeTime": 1544503215102,
+            "contentHash": "2ce8ddb10fad198cd77b81d124017742e233f7b6"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentTwo/DemoComponentTwoRenderer.js",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoComponentTwo/DemoComponentTwoRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1544500896275,
+            "changeTime": 1544500896275,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoEvent/DemoEvent.evt",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoEvent/DemoEvent.evt",
+            "isDirectory": false,
+            "size": 132,
+            "modifiedTime": 1544502784495,
+            "changeTime": 1544502784495,
+            "contentHash": "48ff3bb8d34a795fb3040519c3dee376478762f0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoEvent/DemoEvent.evt-meta.xml",
+        {
+            "sourcePath": "/Volumes/Work/projects/other/demo-one/force-app/main/default/aura/DemoEvent/DemoEvent.evt-meta.xml",
+            "isDirectory": false,
+            "size": 237,
+            "modifiedTime": 1544501364994,
+            "changeTime": 1544501364994,
+            "contentHash": "fc472aa49b31c89b24afcb118dd6832c25eecab6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ]
+]

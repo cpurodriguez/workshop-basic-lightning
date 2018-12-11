@@ -1,0 +1,11 @@
+<aura:component controller="DemoAuraController" implements="flexipage:availableForAllPageTypes">
+
+        <aura:attribute name="opportunities" type="Object[]" default="[]"/>
+        <aura:attribute name="columns" type="List" default="[]"/>
+    
+        <aura:handler name="init" value="{!this}" action="{!c.init}" />
+        <aura:handler event="c:DemoEvent" action="{!c.handleDemoEvent}"/>
+    
+        <lightning:datatable columns="{!v.columns}" data="{!v.opportunities}" keyField="id" maxRowSelection="2" />
+
+</aura:component>	
